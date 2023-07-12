@@ -1,2 +1,2 @@
-# This is my Portofolio
-Portofolio by Emow
+# Portofolio
+This is my Portofolio by Emow
