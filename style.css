@@ -4,13 +4,9 @@
     width: 50px;
 }
 
-/* .navbar-nav li {
-    gap: 50px;
-} */
-
 .img-fluid {
     border-radius: 30px;
-    width: 200px;
+    width: 300px;
     color: rgba(255, 255, 255, 0.059);
     box-shadow: 15px 0px 1px 3px;
 }
