@@ -4,6 +4,10 @@
     width: 50px;
 }
 
+/* .navbar-nav li {
+    gap: 50px;
+} */
+
 .img-fluid {
     border-radius: 30px;
     width: 200px;
