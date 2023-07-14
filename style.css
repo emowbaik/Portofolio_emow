@@ -4,9 +4,17 @@
     width: 50px;
 }
 
+.jumbotron {
+    padding: 8rem;
+}
+
 .img-fluid {
     border-radius: 30px;
     width: 300px;
     color: rgba(255, 255, 255, 0.059);
     box-shadow: 15px 0px 1px 3px;
+}
+
+section {
+    padding-top: 4rem;
 }
