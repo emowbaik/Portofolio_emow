@@ -1,0 +1,16 @@
+{
+    "name": "Portofolio Emow",
+    "short_name": "Portofolio",
+    "description": "Aplikasi Portofolio Emow",
+    "icons": [
+        {
+            "src": "../img/logo/Logo_emow_transparent.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#0d0072",
+    "background_color": "#0d0072"
+}
